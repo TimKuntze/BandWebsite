@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../javascript_array_example"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website_band"
+	}
+}
